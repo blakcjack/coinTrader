@@ -1,0 +1,13 @@
+Package: coinTrader
+Type: Package
+Title: Trading API Package for some known coins
+Version: 0.0.1
+Author: Suberlin Sinaga <suberlinsinaga@gmail.com>
+Maintainer: Suberlin Sinaga <suberlinsinaga@gmail.com>
+Description: Helps you connect to particular trading API.
+    For now, it only supports for Indodax platform.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+Imports: Rcpp (>= 1.0.6)
+LinkingTo: Rcpp
