@@ -7,7 +7,7 @@ Maintainer: Suberlin Sinaga <suberlinsinaga@gmail.com>
 Description: Helps you connect to particular trading API.
     For now, it only supports for Indodax platform.
 License: GPL-3
-Imports: R6 (>= 2.5.0), digest (>= 0.6.27), jsonlite (>= 1.7.2), stringr (>= 1.4.0), tidyr (>= 1.1.3), Rcpp (>= 1.0.6)
+Imports: R6 (>= 2.5.0), digest (>= 0.6.27), stringr (>= 1.4.0), tidyr (>= 1.1.3), Rcpp (>= 1.0.6)
 Encoding: UTF-8
 LazyData: true
 LinkingTo: Rcpp
